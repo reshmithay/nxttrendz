@@ -6,8 +6,8 @@ import './index.css'
 
 class LoginForm extends Component {
   state = {
-    username: '',
-    password: '',
+    username: 'reshu',
+    password: 'reshu@123',
     showSubmitError: false,
     errorMsg: '',
   }
